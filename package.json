@@ -1,0 +1,17 @@
+{
+  "name": "MLCP",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "express": "^4.9.8",
+    "jade": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eubert Go",
+  "license": "ISC"
+}
