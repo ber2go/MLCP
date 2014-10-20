@@ -18,10 +18,11 @@
     <![endif]-->
 </head>
 
-<body>
-    <div class="container-fluid">
+<body ng-app='app'>
+    <div class="container-fluid" ng-controller="mainCtrl">
 
         <h1>Quotation Application</h1>
+        <h2>{{myVar}}</h2>
         <form class="form-horizontal" role="form">
             <div class="panel panel-default">
                 <div class="panel-heading">
@@ -169,6 +170,10 @@
     <script src="vendor/jquery/dist/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="vendor/angular/angular.js"></script>
+    <script src="vendor/angular-resource/angular-resource.js"></script>
+    <script src="vendor/angular-route/angular-route.js"></script>
+      <script src="app/app.js"></script>
 </body>
 
 </html>

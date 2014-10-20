@@ -1,0 +1,26 @@
+{
+  "name": "MLCP",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ber2go/MLCP",
+  "description": "MLCP Quotation Application",
+  "authors": [
+    "Eubert Go"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "toastr": "~2.0.3",
+    "angular": "~1.3.0",
+    "angular-resource": "~1.3.0",
+    "angular-route": "~1.3.0"
+  }
+}
