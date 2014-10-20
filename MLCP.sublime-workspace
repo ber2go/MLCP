@@ -3,15 +3,39 @@
 	{
 		"selected_items":
 		[
+			[
+				"mess",
+				"message"
+			],
+			[
+				"mong",
+				"mongoMessage"
+			],
+			[
+				"my",
+				"myApp"
+			],
+			[
+				"$location",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"bo",
+				"bodyParser"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "public/quotation.html",
+			"file": "server.js",
 			"settings":
 			{
-				"buffer_size": 8892,
+				"buffer_size": 2078,
 				"line_ending": "Unix"
 			}
 		}
@@ -49,12 +73,34 @@
 	"expanded_folders":
 	[
 		"/Users/anniechoo/Desktop/MLCP",
+		"/Users/anniechoo/Desktop/MLCP/node_modules",
+		"/Users/anniechoo/Desktop/MLCP/node_modules/mongoose",
+		"/Users/anniechoo/Desktop/MLCP/node_modules/mongoose/node_modules",
+		"/Users/anniechoo/Desktop/MLCP/node_modules/mongoose/node_modules/mongodb",
+		"/Users/anniechoo/Desktop/MLCP/node_modules/mongoose/node_modules/mongodb/node_modules",
+		"/Users/anniechoo/Desktop/MLCP/node_modules/mongoose/node_modules/mongodb/node_modules/kerberos",
+		"/Users/anniechoo/Desktop/MLCP/public",
+		"/Users/anniechoo/Desktop/MLCP/public/vendor/angular-resource",
+		"/Users/anniechoo/Desktop/MLCP/public/vendor/angular-route",
 		"/Users/anniechoo/Desktop/MLCP/public/vendor/bootstrap/dist",
-		"/Users/anniechoo/Desktop/MLCP/public/vendor/jquery",
-		"/Users/anniechoo/Desktop/MLCP/public/vendor/jquery/dist"
+		"/Users/anniechoo/Desktop/MLCP/public/vendor/bootstrap/dist/css",
+		"/Users/anniechoo/Desktop/MLCP/public/vendor/jquery/dist",
+		"/Users/anniechoo/Desktop/MLCP/public/vendor/toastr"
 	],
 	"file_history":
 	[
+		"/Users/anniechoo/Desktop/MLCP/server/views/partials/main.jade",
+		"/Users/anniechoo/Desktop/MLCP/public/app/app.js",
+		"/Users/anniechoo/Desktop/MLCP/server/includes/layout.jade",
+		"/Users/anniechoo/Desktop/MLCP/server/views/index.jade",
+		"/Users/anniechoo/Desktop/MLCP/public/quotation.html",
+		"/Users/anniechoo/Desktop/MLCP/node_modules/mongoose/node_modules/mongodb/node_modules/kerberos/builderror.log",
+		"/Users/anniechoo/Desktop/MLCP/server/includes/scripts.jade",
+		"/Users/anniechoo/Desktop/MLCP/public/css/site.styl",
+		"/Users/anniechoo/Desktop/MLCP/index.jade",
+		"/Users/anniechoo/Desktop/MLCP/server/views/index.jade.html",
+		"/Users/anniechoo/Desktop/MLCP/server/index.html",
+		"/Users/anniechoo/Desktop/MLCP/server/index.html.jade",
 		"/Users/anniechoo/Desktop/MLCP/.gitignore",
 		"/Users/anniechoo/Desktop/MLCP/package.json",
 		"/Users/anniechoo/Desktop/MLCP/quotation.html",
@@ -108,29 +154,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "public/quotation.html",
+					"file": "server.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8892,
+						"buffer_size": 2078,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7840,
-								7840
+								302,
+								302
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1943.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
